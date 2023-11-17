@@ -5,6 +5,11 @@
 }
 @font-face {
     font-family: Gotham Pro;
+    src: url(assets/fonts/gothampro_medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: Gotham Pro;
     src: url(assets/fonts/gothampro_bold.ttf);
     font-weight: 700;
 }
